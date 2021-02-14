@@ -95,50 +95,50 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SelenideTest.shouldTest1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;SelenideTest.shouldTest1&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="SelenideTest.shouldTest2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;SelenideTest.shouldTest2&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="SelenideTest.shouldTest4" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;SelenideTest.shouldTest4&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SelenideTest.shouldTestEmptyName" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SelenideTest.shouldTestEmptyName&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SelenideTest.shouldTestEmptyNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SelenideTest.shouldTestEmptyNumber&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SelenideTest.shouldTestEmptyNumber" />
+        <item itemvalue="Gradle.SelenideTest.shouldTestEmptyName" />
         <item itemvalue="Gradle.web [clean]" />
         <item itemvalue="Gradle.SelenideTest" />
         <item itemvalue="Gradle.SelenideTest.shouldTest4" />
-        <item itemvalue="Gradle.SelenideTest.shouldTest1" />
-        <item itemvalue="Gradle.SelenideTest.shouldTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -193,22 +193,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="900" height="472" key="GridCell.Tab.0.bottom" timestamp="1613319766840">
+    <state width="1423" height="235" key="GridCell.Tab.0.bottom" timestamp="1613321193732">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="472" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613319766840" />
-    <state width="900" height="472" key="GridCell.Tab.0.center" timestamp="1613319766839">
+    <state width="1423" height="235" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613321193732" />
+    <state width="1423" height="235" key="GridCell.Tab.0.center" timestamp="1613321193732">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="472" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613319766839" />
-    <state width="900" height="472" key="GridCell.Tab.0.left" timestamp="1613319766839">
+    <state width="1423" height="235" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613321193732" />
+    <state width="1423" height="235" key="GridCell.Tab.0.left" timestamp="1613321193732">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="472" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613319766839" />
-    <state width="900" height="472" key="GridCell.Tab.0.right" timestamp="1613319766840">
+    <state width="1423" height="235" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613321193732" />
+    <state width="1423" height="235" key="GridCell.Tab.0.right" timestamp="1613321193732">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="472" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613319766840" />
+    <state width="1423" height="235" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613321193732" />
     <state x="685" y="129" key="new project wizard" timestamp="1613313638959">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
